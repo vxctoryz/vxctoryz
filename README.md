@@ -1,4 +1,4 @@
-### Olá, eu sou o Victor!
+### Olá, eu sou o Victor! Sou um jovem programador iniciante que está apenas começando a explorar este vasto mundo da Programação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/vxctoryz/)
