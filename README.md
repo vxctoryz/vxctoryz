@@ -1,4 +1,4 @@
-### Olá, eu sou o Victor! Sou um jovem programador iniciante que está apenas começando a explorar este vasto mundo da Programação.
+### Olá, ben vindo ao meu perfil! Sou um programador iniciante, estou em busca de aprimorar meu conhecimento sobre esta área.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/vxctoryz/)
