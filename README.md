@@ -1,4 +1,4 @@
-### Olá, ben vindo ao meu perfil! Sou um programador iniciante, estou em busca de aprimorar meu conhecimento sobre esta área.
+### Olá, bem vindo ao meu perfil! Sou um programador iniciante, estou em busca de aprimorar meu conhecimento sobre esta área.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/vxctoryz/)
